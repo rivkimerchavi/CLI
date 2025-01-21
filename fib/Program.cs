@@ -7,11 +7,9 @@ using System.Collections.Generic;
 
 var rootCommand = new RootCommand("Root command for file Bundler CLI");
 
-// פקודת bundle לאריזת קבצי קוד
+
 var bundleCommand = new Command("bundle", "Bundle code files into a single file");
 rootCommand.AddCommand(bundleCommand);
-
-// הגדרת אפשרויות לפקודת bundle עם כינויים מקוצרים
 var languageOption = new Option<string>("--language", "Comma-separated list of programming languages or 'all'") { IsRequired = true };
 bundleCommand.AddOption(languageOption);
 languageOption.AddAlias("-l");
@@ -39,7 +37,7 @@ bundleCommand.SetHandler((language, output, note, sort, removeEmptyLines, author
 {
     try
     {
-        var languages = language.Split(',').Select(l => l.Trim()).ToList(); // פיצול השפות לרשימה
+        var languages = language.Split(',').Select(l => l.Trim()).ToList();
         CreateBundle(languages, output.FullName, note, sort, removeEmptyLines, author);
     }
     catch (DirectoryNotFoundException)
@@ -56,13 +54,11 @@ bundleCommand.SetHandler((language, output, note, sort, removeEmptyLines, author
     }
 }, languageOption, outputOption, noteOption, sortOption, removeEmptyLinesOption, authorOption);
 
-// פונקציה לקבלת שפות נתמכות
 static List<string> GetSupportedLanguages()
 {
     return new List<string> { "csharp", "java", "python", "javascript", "cpp" };
 }
 
-// פונקציה לאריזת הקבצים
 static void CreateBundle(List<string> languages, string output, bool note, string sortBy, bool removeEmptyLines, string author)
 {
     var supportedLanguages = GetSupportedLanguages();
@@ -76,9 +72,9 @@ static void CreateBundle(List<string> languages, string output, bool note, strin
         }
     }
 
-    // סינון קבצים בתיקיות bin, debug וכו'
+
     var excludedDirectories = new[] { "bin", "debug" };
-    var searchOption = SearchOption.AllDirectories; // חיפוש בכל התיקיות ובתיקיות משנה
+    var searchOption = SearchOption.AllDirectories;
 
     var codeFiles = languages.Contains("all")
         ? Directory.GetFiles(Directory.GetCurrentDirectory(), "*.*", searchOption)
@@ -86,11 +82,10 @@ static void CreateBundle(List<string> languages, string output, bool note, strin
         : languages.SelectMany(lang => Directory.GetFiles(Directory.GetCurrentDirectory(), $"*.{lang}", searchOption)
                     .Where(file => !excludedDirectories.Any(dir => file.Contains(Path.Combine(Directory.GetCurrentDirectory(), dir)))));
 
-    // אם אין קבצים, צור קובץ פלט ריק
     if (!codeFiles.Any())
     {
         Console.WriteLine("No code files found for the specified languages. Creating an empty output file.");
-        File.WriteAllText(output, string.Empty); // יצירת קובץ פלט ריק
+        File.WriteAllText(output, string.Empty); 
         return;
     }
 
@@ -141,11 +136,10 @@ static void CreateBundle(List<string> languages, string output, bool note, strin
     }
 }
 
-// הוספת פקודת create-rsp
+
 var createRspCommand = new Command("create-rsp", "Create a response file for the bundle command");
 rootCommand.AddCommand(createRspCommand);
 
-// הגדרת התנהגות הפקודה create-rsp
 createRspCommand.SetHandler(() =>
 {
     string output, language, sort, author;
@@ -169,13 +163,13 @@ createRspCommand.SetHandler(() =>
     Console.Write("Enter author name (optional): ");
     author = Console.ReadLine();
 
-    // יצירת הפקודה המלאה
+
     var commandLine = $"bundle --output \"{output}\" --language \"{language}\" --note {note.ToString().ToLower()} --sort \"{sort}\" --remove-empty-lines {removeEmptyLines.ToString().ToLower()}";
 
-    // שמירת הפקודה לקובץ תגובה
+   
     File.WriteAllText($"{Path.GetFileNameWithoutExtension(output)}.rsp", commandLine);
     Console.WriteLine($"Response file created: {Path.GetFileNameWithoutExtension(output)}.rsp");
 });
 
-// הרצת הפקודה
+
 rootCommand.InvokeAsync(args);

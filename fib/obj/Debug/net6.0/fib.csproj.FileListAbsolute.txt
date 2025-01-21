@@ -1,0 +1,60 @@
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.exe
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.deps.json
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.runtimeconfig.json
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.pdb
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.AssemblyInfo.cs
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\refint\fib.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.pdb
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.genruntimeconfig.cache
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\ref\fib.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\System.CommandLine.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+Y:\Groups\Group_1\מרחבי רבקה\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.csproj.CopyComplete
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.csproj.AssemblyReference.cache
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.AssemblyInfoInputs.cache
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.AssemblyInfo.cs
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.csproj.CoreCompileInputs.cache
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.dll
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\refint\fib.dll
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.pdb
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.exe
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.deps.json
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.runtimeconfig.json
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fib.pdb
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\System.CommandLine.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.csproj.CopyComplete
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\fib.genruntimeconfig.cache
+F:\פרויקט CLIחדש\fib\fib\obj\Debug\net6.0\ref\fib.dll
