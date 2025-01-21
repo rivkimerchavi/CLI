@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3yE2Rtu4CQWSqsIqo5Cr5cZd+2Zk0dTRMnGjqwtXL9T8Kig64Lpyhc/e5PJiIL9TpBB5CtYhxIfsprXvB4r9Yw==",
+  "dgSpecHash": "9mr1NJvogwaYL9gBr5Zv7UaxTb/R7meTEsdFQiMfRMh8LtJvVR6qZ0MhkAEUQJtrNXo+AFe3G3Hgvg/14BfDbA==",
   "success": true,
-  "projectFilePath": "E:\\פרויקט CLIחדש\\ProjectCLI\\fib\\fib.csproj",
+  "projectFilePath": "E:\\פרויקט CLIחדש\\CLI_Project\\fib\\fib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1 327823894\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
   ],

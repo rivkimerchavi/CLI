@@ -116,11 +116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\פרויקט CLIחדש\\ProjectCLI\\fib\\fib.csproj",
+      "projectUniqueName": "E:\\פרויקט CLIחדש\\CLI_Project\\fib\\fib.csproj",
       "projectName": "fib",
-      "projectPath": "E:\\פרויקט CLIחדש\\ProjectCLI\\fib\\fib.csproj",
+      "projectPath": "E:\\פרויקט CLIחדש\\CLI_Project\\fib\\fib.csproj",
       "packagesPath": "C:\\Users\\1 327823894\\.nuget\\packages\\",
-      "outputPath": "E:\\פרויקט CLIחדש\\ProjectCLI\\fib\\obj\\",
+      "outputPath": "E:\\פרויקט CLIחדש\\CLI_Project\\fib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

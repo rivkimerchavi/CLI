@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79ca6a1d800c52ac87b31848d632f501e26895e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50bba1b856d0b40d9fd0701a8fd4e50f8629b1a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("fib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\ProjectCLI\\",
+  "WorkspaceRootPath": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\CLI_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC14EAD2-843F-432D-ABF1-75D33C32F8DD}|fib\\fib.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 cli\u05D7\u05D3\u05E9\\projectcli\\fib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC14EAD2-843F-432D-ABF1-75D33C32F8DD}|fib\\fib.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 cli\u05D7\u05D3\u05E9\\cli_project\\fib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC14EAD2-843F-432D-ABF1-75D33C32F8DD}|fib\\fib.csproj|solutionrelative:fib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC14EAD2-843F-432D-ABF1-75D33C32F8DD}|fib\\fib.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 cli\u05D7\u05D3\u05E9\\projectcli\\fib\\fib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EC14EAD2-843F-432D-ABF1-75D33C32F8DD}|fib\\fib.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 cli\u05D7\u05D3\u05E9\\cli_project\\fib\\fib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EC14EAD2-843F-432D-ABF1-75D33C32F8DD}|fib\\fib.csproj|solutionrelative:fib\\fib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "fib.csproj",
-              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\ProjectCLI\\fib\\fib.csproj",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\CLI_Project\\fib\\fib.csproj",
               "RelativeDocumentMoniker": "fib\\fib.csproj",
-              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\ProjectCLI\\fib\\fib.csproj",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\CLI_Project\\fib\\fib.csproj",
               "RelativeToolTip": "fib\\fib.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T10:48:49.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T10:48:49.97Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\ProjectCLI\\fib\\Program.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\CLI_Project\\fib\\Program.cs",
               "RelativeDocumentMoniker": "fib\\Program.cs",
-              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\ProjectCLI\\fib\\Program.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 CLI\u05D7\u05D3\u05E9\\CLI_Project\\fib\\Program.cs",
               "RelativeToolTip": "fib\\Program.cs",
-              "ViewState": "AQIAAIgAAAAAAAAAAAAgwI8AAAABAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAKgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T12:42:12.317Z",
               "EditorCaption": ""
